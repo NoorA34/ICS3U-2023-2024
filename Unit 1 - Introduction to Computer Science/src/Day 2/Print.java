@@ -1,6 +1,6 @@
 
 
-public class Example {
+public class Print {
     public static void main(String[] args) throws Exception {
         System.out.println("Question: What is the closest planet to the sun?");
          System.out.println("A) Jupiter");
